@@ -83,7 +83,6 @@
       "d2.8xlarge"  : { "Arch" : "HVM64"  },
       "hi1.4xlarge" : { "Arch" : "HVM64"  },
       "hs1.8xlarge" : { "Arch" : "HVM64"  },
-      "cr1.8xlarge" : { "Arch" : "HVM64"  },
       "cc2.8xlarge" : { "Arch" : "HVM64"  }
     },
 
